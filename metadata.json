@@ -1,0 +1,7 @@
+{
+  "name": "Smart AI Trading Agent",
+  "description": "Professional Institutional AI Trading Intelligence for Forex & Precious Metals with quantitative analysis, news engine, multi-timeframe confluence, and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
